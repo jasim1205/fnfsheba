@@ -1,0 +1,13 @@
+@import url(./variable.css);
+@import url(./common.css);
+
+@import url(./header-hero.css);
+@import url(./service-list.css);
+@import url(./about.css);
+@import url(./client.css);
+@import url(./contact.css);
+@import url(./footer.css);
+
+@import url(./page-about.css);
+@import url(./page-our-team.css);
+@import url(./corporate-services.css);

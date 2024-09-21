@@ -1,0 +1,22 @@
+.team-img {
+  position: relative;
+}
+.team-title {
+  position: absolute;
+  bottom: -50px;
+  left: 130px;
+  background-color: var(--brand-color);
+  text-align: center;
+  padding: 10px;
+  /* width: 250px; */
+}
+.team-title p {
+  margin-bottom: 0;
+  font-weight: 700;
+}
+.team-title p:nth-of-type(2) {
+  font-weight: 300;
+}
+.team-massege p {
+  font-weight: 300;
+}

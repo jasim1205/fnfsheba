@@ -1,0 +1,17 @@
+.page-header-hero {
+  background-image: url(../image/pageHeaderBG.png);
+  height: 600px;
+  background-size: cover;
+}
+.page-header-hero .overlay {
+  background-color: rgba(17, 17, 17, 0.863);
+  height: 600px;
+}
+.page-hero-title {
+  font-weight: 800;
+  font-size: 50px;
+  color: var(--brand-color);
+}
+.page-hero {
+  height: 500px;
+}

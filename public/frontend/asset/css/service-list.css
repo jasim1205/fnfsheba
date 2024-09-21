@@ -1,0 +1,45 @@
+.card-cls {
+  margin-top: -176px;
+}
+.card-top {
+  background-image: url(../image/serviceImage.png);
+  height: 176px;
+  background-size: cover;
+}
+.card-img1 {
+  background-image: url(../image/serviceImage.png);
+  height: 176px;
+  background-size: cover;
+}
+.card-img2 {
+  background-image: url(../image/service2.jpg);
+  height: 176px;
+  background-size: cover;
+}
+.card-img3 {
+  background-image: url(../image/service3.jpg);
+  height: 176px;
+  background-size: cover;
+}
+.card-img4 {
+  background-image: url(../image/service4.jpg);
+  height: 176px;
+  background-size: cover;
+}
+.card-top-overlay {
+  background-color: rgba(0, 0, 0, 0.76);
+  height: 176px;
+  border: 3px solid var(--brand-color);
+  border-bottom: 5px solid var(--brand-color);
+}
+.card-top p {
+  color: #fff;
+  padding: 20px;
+  font-weight: 600;
+  padding-top: 30px;
+}
+.card-bottom {
+  padding: 30px;
+  background-color: #fccd1257;
+  height: 200px;
+}

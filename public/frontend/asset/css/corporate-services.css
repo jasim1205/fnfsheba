@@ -1,0 +1,33 @@
+.page-our-service h3 {
+  color: var(--brand-color);
+  margin-top: 50px;
+  font-weight: 800;
+  border-bottom: 2px solid var(--brand-color);
+  width: 350px;
+}
+.page-our-service a {
+  text-decoration: none;
+  color: var(--brand-color);
+  font-weight: bold;
+  font-size: 13px;
+}
+.our-service-details {
+  color: #6b6b6b;
+  margin-bottom: 50px;
+}
+.service-details i {
+  color: var(--brand-color);
+  font-size: 40px;
+  margin-right: 20px;
+}
+.service-details h5 {
+  color: var(--brand-color);
+  font-size: 25px;
+  font-weight: 800;
+  margin-top: 18px;
+  margin-bottom: 10px;
+}
+.service-details p {
+  color: #6b6b6b;
+  font-size: 15px;
+}

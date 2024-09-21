@@ -1,0 +1,20 @@
+.about p:nth-of-type(1) {
+  font-weight: 800;
+  font-size: 40px;
+}
+.about p:nth-of-type(2) {
+  font-weight: 300;
+  font-size: 15px;
+}
+.about-review p {
+  margin: 0;
+}
+.about-google img {
+  margin-top: 20px;
+}
+.about-review p:nth-of-type(1) {
+  font-weight: 800;
+}
+.about-review p:nth-of-type(2) {
+  font-weight: 500;
+}

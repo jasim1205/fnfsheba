@@ -1,0 +1,11 @@
+.page-about h2 {
+  color: var(--brand-color);
+  font-weight: 900;
+  border-bottom: 2px solid var(--brand-color);
+  max-width: 300px;
+  margin-bottom: 30px;
+}
+.page-about p {
+  color: #3b3b3b;
+  font-weight: 300;
+}
